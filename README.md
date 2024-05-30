@@ -1,4 +1,4 @@
-# Mercor-ML-Engineer-Vetting-Project
+# ML-Engineer-Vetting-Project
 
 #Makefile
 First install any required directories using pip install name of the directories.
